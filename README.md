@@ -1,16 +1,25 @@
-# You-RUNMAN---Privacy-Policy
-Privacy Policy for the game "You RUNMAN!".
+# You RunMan! - Privacy Policy
 
-This repository hosts the public Privacy Policy for games developed by Incline Games.
+This repository hosts the official Privacy Policy for **You RunMan!**, developed by **Incline Games**.
 
-Games
-You RunMan!
+## About
 
-Privacy Policy
+This repository contains the Privacy Policy used for the Google Play release of **You RunMan!**.
 
-The latest Privacy Policy is available through GitHub Pages and is intended for use with Google Play distribution.
+## Game
 
-Contact
+- 🎮 You RunMan!
 
-Incline Games
-Email: inclinegamestudio@gmail.com
+## Privacy Policy
+
+The latest Privacy Policy is published using GitHub Pages and is intended for use with the Google Play Store.
+
+## Contact
+
+**Incline Games**
+
+📧 Email: inclinegamestudio@gmail.com
+
+---
+
+© 2026 Incline Games. All rights reserved.
